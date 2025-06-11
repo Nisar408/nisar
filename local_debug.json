@@ -1,0 +1,21 @@
+{
+  "app_name": "Heart Disease Dashboard",
+  "environment": "local_development",
+  "created_at": "2025-06-11 23:09:30",
+  "settings": {
+    "debug_mode": true,
+    "show_warnings": true,
+    "enable_reactlog": true,
+    "port": 3838
+  },
+  "paths": {
+    "working_dir": "/Users/mac/Downloads/rstudio-export (1)",
+    "data_file": "heart_disease_uci.csv",
+    "app_file": "app.R"
+  },
+  "developer_info": {
+    "r_version": "R version 4.5.0 (2025-04-11)",
+    "platform": "aarch64-apple-darwin20",
+    "user": "mac"
+  }
+}

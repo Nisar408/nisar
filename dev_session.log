@@ -1,0 +1,33 @@
+=== HEART DISEASE DASHBOARD - DEV LOG ===
+Session Started: 2025-06-11 23:09:30.291959
+Working Directory: /Users/mac/Downloads/rstudio-export (1)
+R Version: R version 4.5.0 (2025-04-11)
+Platform: aarch64-apple-darwin20
+User: mac
+Session ID: d2bf9d5b
+
+=== PACKAGE STATUS ===
+shiny: 1.10.0
+shinydashboard: 0.7.3
+ggplot2: 3.5.2
+plotly: 4.10.4
+dplyr: 1.1.4
+tidyr: 1.3.1
+DT: 0.33
+
+=== FILES IN DIRECTORY ===
+app.R
+backup_20250611
+dev_session.log
+heart_disease_uci.csv
+HeartDisease
+local_debug.json
+local_dev_dashboard.html
+
+=== SESSION ACTIVITIES ===
+App initialized at: 2025-06-11 23:09:30.295161
+
+
+File creation completed at: 2025-06-11 23:09:30.297672
+App data preparation started at:  2025-06-11 23:09:30.297805 
+Data loaded from CSV:  920  rows,  16  columns
